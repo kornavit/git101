@@ -1,2 +1,3 @@
 hello git
-เเก้ไขไฟล์ A
+เเก้ไขไฟล์ Aa;
+sldkf
